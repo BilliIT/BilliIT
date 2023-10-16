@@ -1,9 +1,9 @@
 <h1 align="center">Hola 👋, me llamo Italo Jose Billi Manchola</h1>
 <h3 align="center">Soy un Frontend y Backend</h3>
 
-- 💬 Ask me about **Java, Phyton**
+- 💬 Preguntame sobre **Java, Phyton**
 
-- 📫 How to reach me **italobilli25@gmail.com**
+- 📫 como llegar a mi **italobilli25@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
